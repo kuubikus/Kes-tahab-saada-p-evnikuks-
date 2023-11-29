@@ -3,7 +3,7 @@
 Tabel, mis peab arvet, kui palju keegi on olnud päevnik. Programm võimaldab anda sõduritele motivatsioonipunkte. Osad võimalikud rikkumised ja vastavad punktid on ette antud tabelis 1. Üks päevnikuks olemise kord võrdub 10 punkti.
 
 ## Kuidas kasutada?
-1. Ava kaust Application
+1. Ava kaust build/dist
 2. Ava paevnikud.csv
 3. Muuda esimeses tulbas nimed vastavalt oma üksusele
 4. Iga päevnike vahetuse korral märgi tabelisse sõduri juurde, kes oli päevnik, "x" 
