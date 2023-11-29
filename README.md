@@ -1,4 +1,4 @@
-# Kasarmu-kord
+# Kes tahab saada päevnikuks?
 
 Tabel, mis peab arvet, kui palju keegi on olnud päevnik. Programm võimaldab anda sõduritele motivatsioonipunkte. Osad võimalikud rikkumised ja vastavad punktid on ette antud tabelis 1. Üks päevnikuks olemise kord võrdub 10 punkti.
 
