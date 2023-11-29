@@ -99,7 +99,7 @@
  [],
  False,
  False,
- 1701261762,
+ 1701264083,
  [('run.exe',
    'C:\\Users\\Märten '
    'Mikk\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
