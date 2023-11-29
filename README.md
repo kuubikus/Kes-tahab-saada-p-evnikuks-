@@ -14,6 +14,7 @@ Tabel, mis peab arvet, kui palju keegi on olnud päevnik. Programm võimaldab an
 ## Märkused
 1. Kui paevnikud.csv avatakse Exceli abil, võib juhtuda, et esimesel real on kuupäeva asemel #######. See tähendab, et kuupäev ei mahu kasti ära. Kasti suurendamisel viga kaob
 2. Kui paevnikud.csv avatakse Exceli abil, võib juhtuda, et täpitähed ei ole korralikult šifreeritud. Probleemi põhjuseks on faili encoding. Proovige teist applicationit, nt Notepad++. paevnikud.csv on "UTF-8-sig" šifreeringuga.
+3. Kui .exe faili ei saa mingil põhjusel kasutada, siis source code on olemas (paevnik.py)
 
 ##
 Välja töötatud Eesti Mereväes, Rannikukaitse Divisjonis, nooremmaat Miku poolt
